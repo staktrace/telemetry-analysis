@@ -1,0 +1,7 @@
+https://wiki.mozilla.org/Platform/GFX/Telemetry
+https://wiki.mozilla.org/Telemetry/Experiments
+https://github.com/dvander/moz-gfx-telemetry/blob/master/samples/sample-gfx-telemetry-probes.ipynb
+https://github.com/vitillo/python_moztelemetry/blob/master/moztelemetry/spark.py#L69
+http://bsmedberg.github.io/telemetry-experiments-dashboard/
+http://robertovitillo.com/2015/01/16/next-gen-data-analysis-framework-for-telemetry/
+https://spark.apache.org/docs/1.1.0/api/python/pyspark.rdd.RDD-class.html
